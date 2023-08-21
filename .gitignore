@@ -1,0 +1,13 @@
+# Directories
+[Bb]in/
+[Oo]bj/
+.vs/
+
+# Files
+**.sln
+**.vcxproj
+**.vcxproj.*
+# System scripts
+**.sh
+**.bat
+
